@@ -24,10 +24,14 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.mortgagemarketinganimals.com
   # baseUrl: /your-repo-name
-  logoUrl: https://github.com/animalrick/uptime/blob/9115fea6b9a7e26c5a633aab573787d1b2b147b3/MortgageMarketingAnimalsLogoWhiteText.svg
-  name: Upptime
+  logoUrl: https://github.com/animalrick/uptime/raw/master/MortgageMarketingAnimalsLogoWhiteText.svg
+  name: Monitor
   introTitle: "Uptime monitor and status page"
   introMessage: 
+  theme: night
+  favicon: https://mortgagemarketinganimals.com/favicon.png
+  robotsText: "User-agent: * \n Disallow: /"
+  user-agent: animalrick
   navbar:
     - title: Home
       href: https://mortgagemarketinganimals.com/
