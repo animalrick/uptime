@@ -58,18 +58,20 @@
     "url": "https://loanofficerfreedom.com/",
     "icon": "https://icons.duckduckgo.com/ip3/loanofficerfreedom.com.ico",
     "slug": "loan-officer-freedom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 357,
-    "timeDay": 521,
-    "timeWeek": 357,
-    "timeMonth": 357,
-    "timeYear": 357,
-    "dailyMinutesDown": {}
+    "time": 326,
+    "timeDay": 332,
+    "timeWeek": 326,
+    "timeMonth": 326,
+    "timeYear": 326,
+    "dailyMinutesDown": {
+      "2024-07-10": 0
+    }
   },
   {
     "name": "Loan Officer Leadership",
