@@ -130,17 +130,19 @@
     "url": "$INTRANET",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "intranet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1157,
-    "timeDay": 130,
-    "timeWeek": 774,
-    "timeMonth": 1147,
-    "timeYear": 1157,
-    "dailyMinutesDown": {}
+    "time": 1143,
+    "timeDay": 366,
+    "timeWeek": 752,
+    "timeMonth": 1129,
+    "timeYear": 1143,
+    "dailyMinutesDown": {
+      "2024-08-13": 0
+    }
   }
 ]
