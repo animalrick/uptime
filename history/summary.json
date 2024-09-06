@@ -4,18 +4,20 @@
     "url": "https://mortgagemarketinganimals.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mortgagemarketinganimals.com.ico",
     "slug": "mortgage-marketing-animals",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 700,
-    "timeDay": 1349,
-    "timeWeek": 996,
-    "timeMonth": 758,
-    "timeYear": 700,
-    "dailyMinutesDown": {}
+    "time": 693,
+    "timeDay": 788,
+    "timeWeek": 900,
+    "timeMonth": 741,
+    "timeYear": 693,
+    "dailyMinutesDown": {
+      "2024-09-06": 0
+    }
   },
   {
     "name": "Mortgage Marketing Animals Members",
