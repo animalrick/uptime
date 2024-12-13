@@ -4,9 +4,9 @@
     "url": "https://mortgagemarketinganimals.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mortgagemarketinganimals.com.ico",
     "slug": "mortgage-marketing-animals",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 1174,
     "timeYear": 687,
     "dailyMinutesDown": {
+      "2024-12-13": 0,
       "2024-11-21": 18,
       "2024-11-08": 17
     }
@@ -25,9 +26,9 @@
     "url": "https://members.mortgagemarketinganimals.com/",
     "icon": "https://icons.duckduckgo.com/ip3/members.mortgagemarketinganimals.com.ico",
     "slug": "mortgage-marketing-animals-members",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -37,6 +38,7 @@
     "timeMonth": 876,
     "timeYear": 807,
     "dailyMinutesDown": {
+      "2024-12-13": 0,
       "2024-10-19": 16,
       "2024-08-25": 31
     }
@@ -150,18 +152,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "intranet",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 1221,
     "timeDay": 1680,
     "timeWeek": 1442,
     "timeMonth": 1298,
     "timeYear": 1221,
     "dailyMinutesDown": {
-      "2024-12-13": 6,
       "2024-08-25": 31
     }
   }
