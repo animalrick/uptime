@@ -17,6 +17,8 @@ sites:
     url: https://mortgageloanofficerpodcast.com/
   - name: Agent Animals
     url: https://agentanimals.com/
+  - name: DANGER! MortgagesMarketingAnimals
+    url: https://MortgagesMarketingAnimals.com/
   - name: Intranet
     url: $INTRANET
 status-website:
