@@ -1,7 +1,7 @@
 url: $INTRANET
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-03T17:03:26.555Z
+status: up
+code: 200
+responseTime: 1966
+lastUpdated: 2025-05-03T17:12:41.133Z
 startTime: 2024-07-07T15:35:40.775Z
 generator: Upptime <https://github.com/upptime/upptime>
